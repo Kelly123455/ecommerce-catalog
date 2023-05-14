@@ -1,0 +1,209 @@
+.page-men-section {
+    align-items: flex-start;
+    background-color: white;
+    border: 1px none;
+    display: flex;
+    height: 832px;
+    overflow: hidden;
+    width: 1425px;
+}
+
+.overlap-group {
+    height: 731px;
+    margin-left: -3px;
+    position: relative;
+    width: 1428px;
+}
+
+.rectangle-5 {
+    background-color: #d6e6ff;
+    height: 548px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1428px;
+}
+
+.rectangle-7 {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px 0px;
+    height: 580px;
+    left: 150px;
+    position: absolute;
+    top: 126px;
+    width: 1034px;
+}
+
+.rectangle-1 {
+    background-color: #d9d9d9;
+    border: 3px solid;
+    border-color: black;
+    height: 442px;
+    left: 193px;
+    position: absolute;
+    top: 164px;
+    width: 319px;
+}
+
+.mens-casual {
+    color: #002772;
+    left: 580px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 175px;
+    width: 548px;
+}
+
+.mens-clothing {
+    left: 580px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 268px;
+}
+
+.great {
+    color: #1e1e1e;
+    font-weight: 400;
+    left: 580px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 327px;
+    width: 517px;
+}
+
+.ellipse-1 {
+    background-color: white;
+    border: 1px solid;
+    border-color: #002772;
+    position: absolute;
+    height: 14px;
+    width: 14px;
+    border-radius: 10px;
+    left: 1099px;
+    top: 268px;
+}
+
+.ellipse-2 {
+    background-color: white;
+    border: 1px solid;
+    border-color: #002772;
+    position: absolute;
+    height: 14px;
+    width: 14px;
+    border-radius: 10px;
+    left: 1079px;
+    top: 268px;
+}
+
+.ellipse-3 {
+    background-color: #002772;
+    border: 1px solid;
+    border-color: #002772;
+    position: absolute;
+    height: 14px;
+    width: 14px;
+    border-radius: 10px;
+    left: 1059px;
+    top: 268px;
+}
+
+.ellipse-4 {
+    background-color: #002772;
+    border: 1px solid;
+    border-color: #002772;
+    position: absolute;
+    height: 14px;
+    width: 14px;
+    border-radius: 10px;
+    left: 1039px;
+    top: 268px;
+}
+
+.ellipse-5 {
+    background-color: #002772;
+    border: 1px solid;
+    border-color: #002772;
+    position: absolute;
+    height: 14px;
+    width: 14px;
+    border-radius: 10px;
+    left: 1019px;
+    top: 268px;
+}
+
+.text-1 {
+    left: 969px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 268px;
+}
+
+.price {
+    color: #002772;
+    font-size: 28px;
+    font-weight: 600;
+    left: 580px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 568px;
+}
+
+.rectangle-2 {
+    background-color: #002772;
+    border: 3px solid;
+    border-color: #002772;
+    border-radius: 4px;
+    height: 42px;
+    left: 580px;
+    position: absolute;
+    top: 618px;
+    width: 259px;
+}
+
+.buy-now {
+    color: white;
+    font-weight: 600;
+    left: 687px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 632px;
+    white-space: nowrap;
+}
+
+.rectangle-3 {
+    background-color: white;
+    border: 3px solid;
+    border-color: #002772;
+    border-radius: 4px;
+    height: 42px;
+    left: 858px;
+    position: absolute;
+    top: 618px;
+    width: 259px;
+}
+
+.next-product {
+    color: #002772;
+    font-weight: 600;
+    left: 944px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 632px;
+    white-space: nowrap;
+}
+
+.image-1 {
+    height: 442px;
+    left: 195px;
+    position: absolute;
+    top: 166px;
+    width: 319px;
+}
